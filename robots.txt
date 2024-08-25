@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iventroc.github.io/sitemap.html.gz
+Sitemap: https://iventroc.github.io/app/sitemap.html.gz
+Sitemap: https://iventroc.github.io/assets/sitemap.html.gz
+Sitemap: https://iventroc.github.io/css/sitemap.html.gz
+Sitemap: https://iventroc.github.io/includes/sitemap.html.gz
+Sitemap: https://iventroc.github.io/item/sitemap.html.gz
+Sitemap: https://iventroc.github.io/src/sitemap.html.gz
